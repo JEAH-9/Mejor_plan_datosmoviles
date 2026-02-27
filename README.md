@@ -126,3 +126,8 @@ Se utilizó una prueba t para muestras independientes con un nivel de significan
 - Matplotlib
 - SciPy
 - Jupyter Notebook
+
+---
+
+## 👤 Autor
+Eduardo Aranda Proyecto académico – Portafolio de Data Analyst
